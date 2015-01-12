@@ -2,3 +2,5 @@ Dog
 Cat
 ELephant
 Alligator
+Monkey
+Tiger
