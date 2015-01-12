@@ -5,3 +5,5 @@ Alligator
 Monkey
 Tiger
 Mouse
+Horse
+Donkey
