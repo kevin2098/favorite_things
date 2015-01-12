@@ -3,3 +3,6 @@ Pineapple
 Frog
 Lizard
 Chicken
+Passion Fruit
+Popcorn
+Pepperoni
